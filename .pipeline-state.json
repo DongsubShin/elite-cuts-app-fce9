@@ -1,0 +1,45 @@
+{
+  "projectDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/elite-cuts-app-2fd2434f",
+  "orderId": "d7419826-717f-4901-bb38-7fc73a9442b2",
+  "input": {
+    "app_name": "elite-cuts-app",
+    "features": [
+      "booking",
+      "walk-in-queue",
+      "client-crm",
+      "sms-reminders",
+      "analytics-full",
+      "commission-tracking",
+      "payments",
+      "loyalty"
+    ],
+    "business_info": {
+      "name": "Elite Cuts",
+      "address": "Houston, TX",
+      "barber_count": 12,
+      "booking_system": "Square (one location) and paper (other location)"
+    },
+    "message": "Building your Elite Cuts PRD now — two locations, 12 barbers, mixed commission/booth rent tracking, deposit collection, SMS reminders, walk-in queue, and full analytics dashboard. Give me a minute.",
+    "stop_after": "prd"
+  },
+  "completedPhases": [
+    "init",
+    "prd",
+    "design",
+    "database",
+    "backend",
+    "frontend",
+    "integrate"
+  ],
+  "phaseResults": [
+    "Setting up your project: Scaffolded 12 files",
+    "Generating your requirements document: Generated PRD: elite-cuts-app_PRD_260310.md (11952 chars). Sent to client for review.",
+    "Designing your pages: Generated 2 HTML designs: User App, Admin Dashboard",
+    "Setting up your data storage: Generated 12 database files (entities + migration)",
+    "Building the backend: Generated 10 backend files (controllers, services, DTOs)",
+    "Building the user interface: Generated 12 frontend files (pages, components, hooks)",
+    "Wiring frontend to backend APIs: Integration included in frontend build"
+  ],
+  "createdAt": "2026-03-10T03:00:24.881Z",
+  "updatedAt": "2026-03-10T03:08:21.533Z"
+}

@@ -1,0 +1,23 @@
+{
+  "projectId": "fdeebe96",
+  "appName": "elite-cuts-app",
+  "businessName": "Elite Cuts",
+  "features": [
+    "booking",
+    "walk-in-queue",
+    "client-crm",
+    "sms-reminders",
+    "analytics-full",
+    "commission-tracking",
+    "payments",
+    "loyalty"
+  ],
+  "businessInfo": {
+    "name": "Elite Cuts",
+    "address": "Houston, TX",
+    "barber_count": 12,
+    "booking_system": "Square (one location) and paper (other location)"
+  },
+  "generatedDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/elite-cuts-app-2fd2434f",
+  "createdAt": "2026-03-10T03:00:54.298Z"
+}

@@ -1,0 +1,13 @@
+{
+  "providers": [
+    "node"
+  ],
+  "buildPhase": {
+    "cmds": [
+      "cd backend && npm ci && npm run build",
+      "cd frontend && npm ci && npm run build",
+      "cp -r frontend/dist backend/dist/public",
+      "cd backend && npm prune --omit=dev"
+    ]
+  }
+}
